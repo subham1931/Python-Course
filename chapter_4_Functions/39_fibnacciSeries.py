@@ -15,7 +15,7 @@ def fibonacci(n):
             c = a+b
             a = b
             b = c
-            # print(c, end= " ")
+            print(c, end= " ")
 
 fibonacci(4)
             
