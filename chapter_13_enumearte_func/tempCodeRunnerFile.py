@@ -1,0 +1,6 @@
+numIter = iter(num)
+# print(next(numIter))
+# print(next(numIter))
+# print(next(numIter))
+# print(next(numIter))
+# print(next(numIter))
