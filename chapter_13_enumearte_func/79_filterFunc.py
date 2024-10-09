@@ -1,5 +1,5 @@
 ##filter return with tuple
-
+##filter(condition,operation) -----> syntax
 def addtion(n):
     return n**2
 

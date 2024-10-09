@@ -1,6 +1,4 @@
-numIter = iter(num)
-# print(next(numIter))
-# print(next(numIter))
-# print(next(numIter))
-# print(next(numIter))
-# print(next(numIter))
+ # tup = []
+    # for i in zip(*args):
+    #     tup.append(sum(i)/len(i))
+    # return tup
